@@ -1,0 +1,12 @@
+﻿  ArraySequenceTest.cpp
+  LinearTest.cpp
+C:\Dev C\2sem\My\2lab\LabMain\LabTest\LinearTest.cpp(14,9): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "EXPECT_TRUE"
+C:\Dev C\2sem\My\2lab\LabMain\LabTest\LinearTest.cpp(53,11): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+  VectorTest.cpp
+C:\Dev C\2sem\My\2lab\LabMain\LabTest\VectorTest.cpp(14,9): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "EXPECT_TRUE"
+  Создание кода...
+  LabTest.vcxproj -> C:\Dev C\2sem\My\2lab\LabMain\Debug\LabTest.exe

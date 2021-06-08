@@ -1,0 +1,6 @@
+﻿  TimeTest.cpp
+C:\Dev C\2sem\My\2lab\LabMain\TimeTest\TimeTest.cpp(44,30): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Dev C\2sem\My\2lab\LabMain\TimeTest\TimeTest.cpp(45,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Dev C\2sem\My\2lab\LabMain\TimeTest\TimeTest.cpp(82,30): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Dev C\2sem\My\2lab\LabMain\TimeTest\TimeTest.cpp(83,73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  TimeTest.vcxproj -> C:\Dev C\2sem\My\2lab\LabMain\Debug\TimeTest.exe

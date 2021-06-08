@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Dev C\2sem\My\2lab\LabMain\Debug\LabTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="ArraySequenceTest.TestName" Duration="1" />
+    <TestDuration Test="ArraySequenceTest.FunctionTest" Duration="1" />
+    <TestDuration Test="ArraySequenceTest.Con" Duration="1" />
+    <TestDuration Test="DynamicArrayTest.InsertTest" Duration="1" />
+    <TestDuration Test="DynamicArrayTest.ConstructTest" Duration="1" />
+    <TestDuration Test="DynamicArrayTest.SetTest" Duration="1" />
+    <TestDuration Test="ArraySequenceTest.InsertTest" Duration="1" />
+    <TestDuration Test="ArraySequenceTest.ConcatAndSub" Duration="1" />
+    <TestDuration Test="TestLinearform.TestLiniarCreation" Duration="1" />
+    <TestDuration Test="TestLinearform.Sum" Duration="1" />
+    <TestDuration Test="TestLinearform.TestMult" Duration="1" />
+    <TestDuration Test="TestLinearform.TestValue" Duration="1" />
+    <TestDuration Test="TestVector.TestLiniarCreation" Duration="1" />
+    <TestDuration Test="TestVector.Sum" Duration="1" />
+    <TestDuration Test="TestVector.TestMultScalar" Duration="1" />
+    <TestDuration Test="TestVector.TestMultVec" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

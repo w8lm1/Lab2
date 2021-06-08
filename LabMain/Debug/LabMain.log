@@ -1,0 +1,25 @@
+﻿  ArraySequence.cpp
+  Interface.cpp
+  InterfaceLinearForm.cpp
+  InterfaceVector.cpp
+C:\Dev C\2sem\My\2lab\LabMain\LabMain\Vector.h(63,23): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\2lab\LabMain\LabMain\Vector.h(59): message : во время компиляции функции-члена класс шаблон "T Vector<T>::Norm(void)"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\2lab\LabMain\LabMain\InterfaceVector.cpp(85): message : выполняется компиляция ссылки на экземпляр шаблон функции "T Vector<T>::Norm(void)"
+          with
+          [
+              T=int
+          ]
+C:\Dev C\2sem\My\2lab\LabMain\LabMain\InterfaceVector.cpp(44): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<int>"
+  LabMain.cpp
+  LinearForm.cpp
+  Vector.cpp
+  Создание кода...
+  LabMain.vcxproj -> C:\Dev C\2sem\My\2lab\LabMain\Debug\LabMain.exe
